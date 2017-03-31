@@ -1,7 +1,7 @@
 # this is a python file for git-workshop
 
 def hello1():
-   msg = 'Hello world!'
+   msg = 'Hello message!'
    print(msg)
 
 def hello2():
