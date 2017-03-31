@@ -13,5 +13,6 @@ def hello3():
    print(msg)
 
 hello1()
+hello2()
 
 
