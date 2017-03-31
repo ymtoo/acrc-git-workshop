@@ -4,7 +4,8 @@ def hello1():
    print('Hello world!')
 
 def hello2():
-   print('Another message!')
+   msg = 'Another message!'
+   print(msg)
 
 hello1()
 
